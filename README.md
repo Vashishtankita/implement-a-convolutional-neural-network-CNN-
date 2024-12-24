@@ -1,4 +1,4 @@
-**GitHub Repository: Convolutional Neural Network Implementation**
+# Convolutional Neural Network Implementation
 
 ### Repository Overview
 This repository contains a Jupyter Notebook that implements a Convolutional Neural Network (CNN) for image classification. It is a practical demonstration of building and evaluating CNNs using a specific dataset. The notebook is designed for educational purposes and can serve as a guide for students and practitioners in the field of deep learning.
